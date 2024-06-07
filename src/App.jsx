@@ -1,5 +1,5 @@
-import StarRating from "./StarRating";
-import Dialog from "./Dialog";
+import StarRating from "./components/StarRating";
+import Dialog from "./components/Dialog";
 
 function App() {
   return (
