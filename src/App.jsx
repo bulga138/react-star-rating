@@ -1,4 +1,5 @@
 import StarRating from "./StarRating";
+import Dialog from "./Dialog";
 
 function App() {
   return (
@@ -6,6 +7,7 @@ function App() {
       <div className="container">
         <h1>Star Rating</h1>
         <StarRating />
+        <Dialog />
       </div>
     </>
   );
