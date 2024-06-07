@@ -2,6 +2,13 @@
 
 ## Screenshots
 
+![image](https://github.com/stefanoturcarelli/react-star-rating/assets/67341828/d246cf38-7a66-4708-afff-8d1491232893)
+
+![image](https://github.com/stefanoturcarelli/react-star-rating/assets/67341828/39218f13-dd0b-4b4c-a750-e77c9abf8775)
+
+![image](https://github.com/stefanoturcarelli/react-star-rating/assets/67341828/0c75c35a-4815-4a42-8b00-9b172f57db7d)
+
+
 ## Description
 
 ### How can I add multiple className's to react component?
