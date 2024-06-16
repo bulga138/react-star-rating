@@ -12,7 +12,7 @@ function Stars() {
         const ratingValue = i + 1;
 
         return (
-          <label key={i}>
+          <label key={`star-${ratingValue}`}>
             <input
               className="radio-buttons"
               type="radio"
