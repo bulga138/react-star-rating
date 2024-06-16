@@ -1,4 +1,4 @@
-import React, { useState } from "react";
+import { useState } from "react";
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import { faStar } from "@fortawesome/free-solid-svg-icons";
 
@@ -12,7 +12,7 @@ function Stars() {
         const ratingValue = i + 1;
 
         return (
-          <label>
+          <label key={i}>
             <input
               className="radio-buttons"
               type="radio"

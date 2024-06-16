@@ -1,4 +1,4 @@
-import { useState, useEffect } from "react";
+import { useState } from "react";
 
 function Dialog() {
   const [open, setOpen] = useState(false);
@@ -13,14 +13,13 @@ function Dialog() {
         <div className="dialog-content">
           <h2>Quote</h2>
           <p className="quote-text">
-            "Success is not final, failure is not fatal: It is the courage to
-            continue that counts."
+            &quot;Success is not final, failure is not fatal: It is the courage
+            to continue that counts.&quot;
           </p>
           <p className="quote-author">- Winston Churchill</p>
         </div>
       </div>
       <button
-        role="button"
         className="open-close-button button-19"
         onClick={() => handleDialog()}
       >

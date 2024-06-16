@@ -132,7 +132,7 @@ h2 {
   z-index: -1;
 }
 
-.button-19:main,
+.button-19:hover,
 .button-19:focus {
   user-select: auto;
 }
